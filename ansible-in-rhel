@@ -1,0 +1,5 @@
+yum -y install python3-pip
+alternatives --set python /usr/bin/python3
+# create ansible user
+yum -y install python3-pip
+pip3 install ansible --user
